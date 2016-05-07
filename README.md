@@ -1,4 +1,4 @@
-# EthereumUpwork
+# EthWork
 
 There is a crazy idea to organize the Upwork on the Ethereum platform.
 Is there anyone who wants to take part in this project?
