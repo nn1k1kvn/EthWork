@@ -7,6 +7,9 @@ Everybody who understand this idea welcome!
 
 [![Gitter](https://badges.gitter.im/nn1k1kvn/EthereumUpwork.svg)](https://gitter.im/nn1k1kvn/EthereumUpwork?utm_source=badge&utm_medium=badge&utm_campaign=pr-badge)
 
+[![Documentation Status](https://readthedocs.org/projects/ethwork/badge/?version=latest)](http://ethwork.readthedocs.io/ru/latest/?badge=latest)
+
+
 ## Ethereum Links
 
  * <a href="https://habrahabr.ru/post/269879/">Будущее Web очень напоминает Bitcoin</a> - Общие понятия о том, как работают цепочки и почему их не подделать, для чего майнеры майнят
