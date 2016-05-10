@@ -1,8 +1,11 @@
 # EthWork
 
-There is a crazy idea to organize the Upwork on the Ethereum platform.
+The global freelance platform EthWork based on The Ethereum
+
+The idea is to make the non-centralized platform for the freelancers all over the world, free of any brokers and with the possibility to be regulated by smart contracts by the “The DAO”
+
 Is there anyone who wants to take part in this project?
-We need the programmers who knew the Solidity and С++ languages and have an experience working on the Upwork
+We need the programmers who knew the Solidity and other languages and have an experience working on the Upwork
 Everybody who understand this idea welcome!
 
 [![Gitter](https://badges.gitter.im/nn1k1kvn/EthereumUpwork.svg)](https://gitter.im/nn1k1kvn/EthereumUpwork?utm_source=badge&utm_medium=badge&utm_campaign=pr-badge) [![Documentation Status](https://readthedocs.org/projects/ethwork/badge/?version=latest)](http://ethwork.readthedocs.io/ru/latest/?badge=latest)

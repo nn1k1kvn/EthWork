@@ -11,6 +11,10 @@ Contents:
 .. toctree::
    :maxdepth: 2
 
+Эфириум 
+=======    
+
+Переводы документации и статей. 
 
 
 Indices and tables
