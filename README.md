@@ -1,5 +1,7 @@
 # EthWork
 
+[![Join the chat at https://gitter.im/nn1k1kvn/EthWork](https://badges.gitter.im/nn1k1kvn/EthWork.svg)](https://gitter.im/nn1k1kvn/EthWork?utm_source=badge&utm_medium=badge&utm_campaign=pr-badge&utm_content=badge)
+
 The global freelance platform EthWork based on The Ethereum
 
 The idea is to make the non-centralized platform for the freelancers all over the world, free of any brokers and with the possibility to be regulated by smart contracts by the “The DAO”
